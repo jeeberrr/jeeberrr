@@ -7,11 +7,11 @@
 
 struct dev {
 
-    string name {};
+    std::string name {};
     vector<std::string> languages {};
     int age {};
-    string discord {};
-    string description {};
+    std::string discord {};
+    std::string description {};
 
     dev() = default;
 
