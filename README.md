@@ -24,8 +24,7 @@ int main() {
     jeeberrr.name = "Jeeberrr";
     jeeberrr.languages = {"C++", "Python", "C#", "Kotlin", "Go"};
     jeeberrr.age = 14;
-    jeeberrr.discord = "jeeberrr";
-    jeeberrr.description = "Teen reverse engineer and malware developer. Makes game cheats sometimes for fun.";
+    jeeberrr.description = "Teen reverse engineer and malware developer.";
 
     return 0;
 
